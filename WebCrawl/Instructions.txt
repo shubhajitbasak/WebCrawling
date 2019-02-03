@@ -1,0 +1,5 @@
+Change the URL in the links_spider.py 
+
+For Windows run the following through command line from the Tutorial Folder as a route -
+
+scrapy crawl weblinks -o links.csv -t csv
